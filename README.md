@@ -1,1 +1,1 @@
-An aspiring embedded software engineer who seems to have a lot of projects for website development.
+An aspiring computer engineer trying to navigate through the intricacies of hardware and software.
