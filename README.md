@@ -1,1 +1,1 @@
-Currently a platform software engineer for Phitopolis. I help develop and maintain crucial cloud infrastructure atop well-known cloud-providers such as AWS, GCP, and Azure. I mostly work with Typescript/Javascript, Python, and some sprinkle of Docker.
+Currently a platform software engineering intern for Phitopolis. I help develop and maintain crucial cloud infrastructure atop well-known cloud-providers such as AWS, GCP, and Azure. I mostly work with Typescript/Javascript, Python, and some sprinkle of Docker.
